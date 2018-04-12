@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
         tv1.setTypeface(Typeface.SANS_SERIF,Typeface.BOLD);
         tv1.setTextColor(Color.BLUE);
-        tv1.setTextSize(40);
+        tv1.setTextSize(30);
 
         tv2.setTypeface(Typeface.SERIF,Typeface.ITALIC);
         tv2.setTextSize(80);
